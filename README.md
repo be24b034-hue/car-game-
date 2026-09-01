@@ -1,5 +1,7 @@
 # 🚗 Car Coin Collector
 
+GAME LINK: https://gd.games/games/d495fa80-1bd1-4826-87fe-2de93d17d073
+
 A simple car game made using GDevelop.
 
 ## 🎮 About the Game
